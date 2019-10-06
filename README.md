@@ -12,3 +12,6 @@ Berekening van een BTW-bedrag en de prijs incl. BTW op basis van de input van ee
 - Sla in een variabele de berekening van de BTW op
 - Toon eventueel de foutmelding in divFeedBack
 - Als alles goed verlopen is toon je de berekening van de BTW
+
+
+![screenshot](/img/screenshotBTW.png)
